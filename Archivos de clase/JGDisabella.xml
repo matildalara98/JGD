@@ -26,9 +26,9 @@
          <head> ESTA CIUDAD ES NUESTRA </head>
          <p>
 
-         <l> Tenemos la tierra, porque al cielo hemos negado </l> 
-         <l> Lo que solo el hombre merece en su violencia: </l> 
-         <l> El amor levantando como roca en la injuria de toda </l>
+         <l> <w type= "verb"> Tenemos </w> la <w type= "noun"> tierra </w>, porque al <w type= "noun"> cielo </w> <w type= "verb"> hemos negado </w> </l> 
+         <l> Lo que <w type= "adverb"> solo </w> el <w type= "noun"> hombre </w> <w type= "verb"> merece </w> en su <w type= "noun"> violencia: </w> </l> 
+         <l> El <w type= "noun"> amor </w> levantando como <w type= "noun"> roca </w> en la <w type= "noun"> injuria </w> de toda </l>
          <l> Patria, para que dioses o criminales seamos un instante </l>
          <l> Cuando la voluptuosidad y el duelo nos habitan. </l>
          <l> Tenemos el cuerpo, pies desde el cuarto miserable </l>
