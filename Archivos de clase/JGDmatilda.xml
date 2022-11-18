@@ -25,20 +25,21 @@
          <div>
             <head> SE JUNTAN DESNUDOS </head>
             <lg>
-            <l>Dos <w type="noun"> cuerpos </w> que se <w type="verb"> juntan </w> desnudos </l> 
-            <l>Solos en la ciudad donde habitan los astros</l> 
-            <l>Inventan sin reposo al deseo.</l> 
-            <l>No se ven cuando se aman, bellos</l> 
-            <l>O atroces arden como dos mundos</l> 
-            <l>Que una vez cada mil años se cruzan en el cielo.</l> 
-            <l>Solo en la palabra, luna inútil, miramos</l> 
-            <l> <hi rendition="simple:italic"> Cómo nuestros cuerpos son cuando se abrazan, </hi> </l> 
-            <l> <hi rendition="simple:italic"> Se penetran, escupen, sangran, rocas que se destrozan, </hi> </l> 
-            <l> <hi rendition="simple:italic"> Estrellas enemigas, imperios que se afrentan. </hi> </l> 
-            <l>Se acarician efímeros entre mil soles </l> 
-            <l>Que se desplazan, se besan hasta el fondo,</l> 
-            <l>Saltan como dos delfines blancos en el día,</l> 
-            <l>Pasan como un solo incendio por la noche.</l>
+            <l>Dos <w type="noun"> cuerpos </w> que se <w type="verb"> juntan </w> <w type="adjective"> desnudos </w> </l> 
+            <l> <w type="adjective"> Solos </w> en la <w type="noun"> ciudad </w> donde <w type="verb"> habitan </w> los <w type="noun"> astros </w> </l> 
+            <l> <w type="verb"> Inventan </w> sin <w type="noun"> reposo </w> al <w type="noun"> deseo </w>.</l> 
+            <l>No se <w type="verb"> ven </w> cuando se <w type="verb"> aman</w>, <w type="adjective"> bellos</w></l> 
+            <l>O <w type="adjective"> atroces</w> <w type="verb">arden</w> como dos <w type="noun"> mundos</w></l> 
+            <l>Que una <w type="noun">vez</w> cada mil <w type="noun">años</w> se <w type="verb">cruzan</w> en el <w type="noun">cielo</w> .</l> 
+            <l>Solo en la <w type="noun">palabra</w>, <w type="noun">luna</w> <w type="adjective">inútil</w>,<w type="verb"> miramos</w></l> 
+            <l>Solo en la <w type="noun">palabra</w>, <w type="noun">luna</w> <w type="adjective">inútil</w>,<w type="verb"> miramos</w></l> 
+            <l> <hi rendition="simple:italic"> Cómo nuestros <w type="noun">cuerpos</w> <w type="verb">son</w> cuando se <w type="verb">abrazan</w>, </hi> </l> 
+            <l> <hi rendition="simple:italic"> Se <w type="verb">penetran</w>, <w type="verb">escupen</w>, <w type="verb">sangran</w>, <w type="noun">rocas</w> que se <w type="verb">destrozan</w> , </hi> </l> 
+            <l> <hi rendition="simple:italic"> <w type="noun">Estrellas</w> <w type="adjective">enemigas</w>, <w type="noun">imperios</w> que se <w type="verb">afrentan</w>. </hi> </l> 
+            <l>Se <w type="verb">acarician</w> <w type="adjective">efímeros</w> entre mil <w type="noun">soles</w> </l> 
+            <l>Que se <w type="verb">desplazan</w>, se <w type="verb">besan</w> hasta el <w type="noun">fondo</w>,</l> 
+            <l><w type="verb">Saltan</w> como dos <w type="noun">delfines</w> <w type="adjective">blancos </w>en el <w type="noun">día</w>,</l> 
+            <l><w type="verb">Pasan</w> como un solo <w type="noun">incendio</w> por la <w type="noun">noche</w>.</l>
             </lg>
          </div>
       </body>
