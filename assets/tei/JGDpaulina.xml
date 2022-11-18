@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hecha polvo</title>
+            <author>Jorge Gaitán Durán</author>
+            <editor>Paulina Restrepo-Franco</editor>
+                    </titleStmt>
+         <publicationStmt>
+            <p>Edición basada en Revista Mito</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Bogotá</pubPlace>
+         <publisher></publisher>
+         <date when="1958">1958</date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+         <lg> 
+         <l> <w type="adverb">Tanto</w> te <w type="verb">amé</w> ese <w type="noun">día</w> que la <w type="noun">muerte</w> </l>
+         <l> <w type="verb">Voló</w> por la <w type="noun">ciudad</w> como <w type="adjective">mil</w> <w type="noun">soles</w>, </l> 
+         <l> <w type="noun">Abeja</w> de mi <w type="noun">duelo</w> </l> 
+         <l> En el <w type="adjective">definitivo</w> <w type="noun">verano</w> que te <w type="verb">llama</w> . </l> 
+         <l> <w type="verb">Fui descubriendo</w> un <w type="noun">astro</w> en tu <w type="noun">desnudo</w> </l> 
+         <l> Tras de mis <w type="noun">pasos</w> <w type="adjective">ciegos</w> por tu <w type="noun">sombra</w>, </l>   
+         <l> <w type="noun">Presente</w>, <w type="noun">ocio</w> <w type="adjective">feroz</w>, donde <w type="adjective">toda</w> <w type="noun">sangre</w> </l> 
+         <l> Al <w type="noun">hombre</w> <w type="verb">exige</w> lo que para el <w type="noun">cielo</w> <w type="verb">es</w> <w type="adjective">imposible</w>. </l> 
+         <l> El <w type="noun">mundo</w>, <w type="noun">espejo</w> de mi <w type="noun">mano</w> <w type="verb">iba</w> </l> 
+         <l> Como una <w type="noun">joya</w> <w type="adjective">opaca</w> por tus <w type="noun">ojos</w>, </l> 
+         <l> Te <w type="verb">miraba</w> <w type="verb">mirar</w> <w type="noun">rostros</w>, <w type="noun">reinos</w>, <w type="noun">memoria</w> </l> 
+         <l> <w type="adjective">Súbita</w>, <w type="noun">nube</w> que como una <w type="noun">desdicha</w> </l> 
+         <l> Pasa por la <w type="noun">carne</w> de <w type="adverb">donde</w> me <w type="verb">retiro</w> </l> 
+         <l> <w type="verb">Desterrado</w> a la  <w type="adjective">ajena</w> <w type="noun">imagen</w> que te <w type="verb">asalta</w>. </l> 
+         <l> Te <w type="verb">fui quitando</w> <w type="noun">abrazos</w>, <w type="noun">conquistas</w>, el <w type="noun">paso</w> </l> 
+         <l> De una <w type="noun">dinastía</w> que <w type="adverb">ahora</w> <w type="verb">habita</w> la <w type="noun">noche</w>. </l> 
+         <l> Yo te <w type="verb">hice habitar</w> en las	<w type="noun">estrellas</w>. </l> 
+         <l> A ti, <w type="noun">arrogancia</w>, <w type="noun">cuerpo</w>  <w type="adjective">impenetrable</w>, </l> 
+         <l> La <w type="noun">pena</w> de <w type="noun">todos</w> <w type="noun">vencedora</w> te <w type="verb">ha penetrado</w>. </l> 
+         </lg>
+         </div>
+      </body>
+  </text>
+</TEI>
